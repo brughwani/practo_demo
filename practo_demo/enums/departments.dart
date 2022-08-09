@@ -1,0 +1,15 @@
+enum DoctorSpecialty {
+  cardiologist,
+  dermatologist,
+  neurologist,
+  oncologist,
+  gastroenterologist,
+  gynecologist,
+  generalSurgeon,
+  pediatrician,
+  orthopedicSurgeon,
+  pediatricSurgeon,
+  plasticSurgeon,
+  urologist,
+  other,
+}
